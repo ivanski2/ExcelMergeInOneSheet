@@ -1,0 +1,17 @@
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\NewTableMerge.exe
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\NewTableMerge.pdb
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\obj\Debug\NewTableMerge.csprojAssemblyReference.cache
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\obj\Debug\NewTableMerge.Form1.resources
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\obj\Debug\NewTableMerge.Properties.Resources.resources
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\obj\Debug\NewTableMerge.csproj.GenerateResource.cache
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\obj\Debug\NewTableMerge.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\obj\Debug\NewTableMerge.csproj.CopyComplete
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\obj\Debug\NewTableMerge.exe
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\obj\Debug\NewTableMerge.pdb
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\MyXls.SL2.dll
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\NPOI.dll
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\NPOI.OOXML.dll
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\lenovo\source\repos\NewTableMerge\NewTableMerge\bin\Debug\NPOI.xml
